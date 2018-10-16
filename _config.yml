@@ -1,2 +1,20 @@
 name: michi-gato, library blorg praxis
 markdown: kramdown
+
+# Sass settings
+sass:
+  add_charset: true
+  sass_dir: assets/sass
+  style: :compressed
+  
+# Build settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - assets/sass
+
+# Plugin settings
+plugins_dir:
+  - jekyll-feed
+  - jekyll-sitemap
