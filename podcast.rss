@@ -27,9 +27,9 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/assets/Combo_1.png" />
-		<itunes:category text="Music" />
-		<itunes:category text="Technology">
+		<itunes:image href="{{ site.url }}/assets/PTP_logo_itunes.jpg" />
+		<itunes:category text="Technology" />
+		<itunes:category text="Education">
 			<itunes:category text="Podcasting" />
 		</itunes:category>
 		<itunes:category text="Society &amp; Culture">
