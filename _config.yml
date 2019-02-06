@@ -20,12 +20,11 @@ plugins_dir:
   - jekyll-sitemap
 
 # Podcast Feed Settings
-
-title:          your-site-title
-email:          podcast@metro.org 
-description:    "Preserve This Podcast! is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
+title:          Silver-Trees-Podcast
+email:          test@podcast.org 
+description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
 subtitle:       "A podcast about saving your podcast."
-url:            your-podcast-url
+url:            https://michi-gato.github.io/
 lang:           Eng
-author:         your-name
+author:         podPotato
 copyright:      "CC BY 4.0"
