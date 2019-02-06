@@ -10,5 +10,6 @@ duration: "14:50" #audio length in min
 length: "14459510" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
+categories: episodes
 ---
 Here goes your regular article content in markdown
