@@ -28,3 +28,7 @@ url:            http://michi-gato.github.io
 lang:           Eng
 author:         podPotato
 copyright:      "CC BY 4.0"
+
+feed:
+  categories:
+    -episodes
