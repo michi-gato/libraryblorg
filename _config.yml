@@ -22,7 +22,7 @@ plugins:
 feed:
   collections:
     episodes:
-      path: "episodes.xml"
+      path: "/episodes.xml"
 
 collections:
   episodes:
