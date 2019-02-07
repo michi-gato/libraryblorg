@@ -19,10 +19,13 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-
 feed:
-  categories:
-    - episodes
+  collections:
+    episodes:
+      path: "episodes.xml"
+
+collections:
+  episodes:
 
 # Podcast Feed Settings
 title:          Trees-Podcast
