@@ -32,3 +32,5 @@ copyright:      "CC BY 4.0"
 feed:
   categories:
     - episodes
+
+theme: jekyll-theme-minimal
