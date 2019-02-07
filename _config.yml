@@ -34,3 +34,5 @@ lang:           Eng
 author:         podPotato
 copyright:      "CC BY 4.0"
 
+
+theme: jekyll-theme-minimal
