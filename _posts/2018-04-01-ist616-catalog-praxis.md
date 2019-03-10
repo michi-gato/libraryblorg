@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The difference between MARC and RDA cataloging practices"
+title: "comparing MARC and RDA cataloging practices"
 date: 2018-04-01
 ---
 
