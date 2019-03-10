@@ -26,7 +26,7 @@ Featuring five archivists coming from vastly different archives—from large pri
 
 **Annie Tang** is the head of Special Collections at Chapman University in Southern California. She was previously the Processing Archivist at Johns Hopkins University, as well as a member of its Diversity Committee, which encouraged more inclusive library recruitment methods. Prior to Hopkins, Annie was an archivist at UC Santa Cruz, processing papers regarding the 1960s and 1970s Black, Native, and Asian American Power Movements. An MLIS graduate of UCLA, she recently served as chair of the Toward Culturally Competent (Re)Description panel at SAA 2018. Annie loves a good bowl of Vietnamese pho, discussing intersectionality, and talking about the differences between East and West Coast weather.
 
-###Context to collections & resources###
+###Context to collections and resources###
 Dorothy B. and Annie T. mentioned realistic and eye-opening perspectives about using the terminology “decolonizing” in relation to the archives. 
 >"The only way we can really Decolonize the Archives is to completely dismantle the system… To have a nine to five job to work full time, you know, to have a salary to have benefits, you unfortunately have to be part of that system… as much as you can with your soul intact… for me the decolonizing archive is practicing as much as possible, as realistically as you can… in a non-white non-Western centric way of processing of collection, management… I especially have done this with with metadata and description.” 
 
