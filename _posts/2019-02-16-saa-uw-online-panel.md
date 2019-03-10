@@ -61,7 +61,7 @@ Thanks for joining! Share your thoughts and/or desires on what other informal ch
 
 ### Follow-up notes from the speakers:
 
-From Michael Pl — [The William Wildschut photograph collection at NMAI](https://sova.si.edu/record/NMAI.AC.001.033)
+From Michael P. — [The William Wildschut photograph collection at NMAI](https://sova.si.edu/record/NMAI.AC.001.033)
 
 From Steve B.
 >A few sample records from the Plateau Peoples' Web Portal:
