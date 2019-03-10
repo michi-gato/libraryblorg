@@ -13,7 +13,7 @@ On February 11, 2019, in under 1.5 hours, SAA-UW hosted an informal online video
 If you missed out, [the panel recording](https://washington.zoom.us/recording/play/SxaRWHlvAZLAOi9S3pbCceCi8UDOYV7FEFM0iHdBbeGDXz3TUfYRf-DL0l-Zz-qT?continueMode=true) will be available until May 11th. 
 
 For those who are reading this 91 days after the event, and missed the recording, here are the CliffsNotes → 
-###The panel line-up###
+### The panel line-up
 Featuring five archivists coming from vastly different archives—from large private university libraries, public university, regional archives association, and a national museum. Here are their bios:
 
 **Dorothy Berry** is the Digital Collections Program Manager at Houghton Library, Harvard University. She graduated from the Department of Folklore and Ethnomusicology and the School of Informatics, Computing and Engineering at Indiana University. She currently serves as Chair of the Archivists and Archives of Color Section of the Society of American Archivists. Her work focuses on the intersections of information science and African American history, working to increase access through digital projects and descriptive equity.
@@ -26,7 +26,7 @@ Featuring five archivists coming from vastly different archives—from large pri
 
 **Annie Tang** is the head of Special Collections at Chapman University in Southern California. She was previously the Processing Archivist at Johns Hopkins University, as well as a member of its Diversity Committee, which encouraged more inclusive library recruitment methods. Prior to Hopkins, Annie was an archivist at UC Santa Cruz, processing papers regarding the 1960s and 1970s Black, Native, and Asian American Power Movements. An MLIS graduate of UCLA, she recently served as chair of the Toward Culturally Competent (Re)Description panel at SAA 2018. Annie loves a good bowl of Vietnamese pho, discussing intersectionality, and talking about the differences between East and West Coast weather.
 
-###Context to collections and resources###
+### Context to collections & resources
 Dorothy B. and Annie T. mentioned realistic and eye-opening perspectives about using the terminology “decolonizing” in relation to the archives. 
 >"The only way we can really Decolonize the Archives is to completely dismantle the system… To have a nine to five job to work full time, you know, to have a salary to have benefits, you unfortunately have to be part of that system… as much as you can with your soul intact… for me the decolonizing archive is practicing as much as possible, as realistically as you can… in a non-white non-Western centric way of processing of collection, management… I especially have done this with with metadata and description.” 
 
@@ -37,6 +37,7 @@ Steve B. mentioned a beautiful online platform that is the culmination of an on-
 
 The community archives discussion reminded me of this other presentation I saw at the [ACRL/NY Symposium in December 2018](https://acrlny2018symposium.wordpress.com/program/). Here is another great presentation about how to develop and sustain a community-driven archive: [Engaging, Educating, and Empowering: Developing Community-Driven Archival Collections](https://drive.google.com/file/d/1z3RsqUNRDxusu5jInjmsGW1OAOy6otes/view) by Nancy Godoy, Arizona State University; Lorrie McAllister, Arizona State University.
 
+### Q & A from the students to the panelists
 Fellow MLIS classmate, Rose (Dragon, she/her) shared a story and question that hit close to home—about living archives. She asked the panelists how do 
 >“communities pass down information and how some things cannot be written down… there's certain information that can't be really shared unless you see it live action like there's recipes that I have to stare at my mom [and] sit there watching.”
 The big takeaway? All panelists agreed that, in these cases, we need to set aside the fact that archives is a formalized practice and that we can all create an archive just by voice recording family members’ stories. Keeping it that simple will save the stories, just as well. 
@@ -58,7 +59,7 @@ Thanks for joining! Share your thoughts and/or desires on what other informal ch
 
 ------
 
-Follow-up notes from the speakers:
+### Follow-up notes from the speakers:
 
 From Michael Pl — [The William Wildschut photograph collection at NMAI](https://sova.si.edu/record/NMAI.AC.001.033)
 
