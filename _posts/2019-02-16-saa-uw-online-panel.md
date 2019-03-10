@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recap: SAA-UW Decolonizing  Archives Online Panel 
+title: recap of SAA-UW decolonizing archives online panel 
 date: 2019-02-16
 ---
 I wrote a _Sparknotes_ version of the _Decolonizing the Archives_ online panel for the Society of American Archivists-University of Washington Student Chapter. Orginally posted on [SAA-UW's Wordpress site](https://saauw.wordpress.com/2019/02/16/recap-saa-uw-decolonizing-archives-online-panel/) but [here it is on Internet Archive](https://web.archive.org/web/20190310153943/https://saauw.wordpress.com/2019/02/16/recap-saa-uw-decolonizing-archives-online-panel/) for good measure. 
