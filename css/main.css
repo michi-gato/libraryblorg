@@ -18,6 +18,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color; #0000ff
 }
 h1 {
     font-size: 3em;
