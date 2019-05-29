@@ -118,7 +118,7 @@ Advocate and plan programming to serve the Society of American Archivists-Univer
 * Digitize & restore 50 thousand out of 2 million images, letters, film, & artifacts for a non-profit foundation dedicated to preserve the 50-year career of a 20th century photographer. Record metadata & file naming on Collective Access. Draft finding aid.
 
 **Librarian, Intern**, Luna Dance Institute (Oct 2011—Jan 2015)
-Promote dance education by hosting open story time for students & families. Implemented cataloging and check out systems for 1,197 books & 403 research articles on to LibraryThing.
+* Promote dance education by hosting open story time for students & families. Implemented cataloging and check out systems for 1,197 books & 403 research articles on to LibraryThing.
 
 ### Skills
 * General software: Android & iOS, Bronto, Collective Access, Git/GitHub, G Suite, iWork, MailChimp, Meraki, Microsoft Office, Mac & Windows, OTRS, Ubuntu, Wikimedia
