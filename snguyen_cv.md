@@ -1,4 +1,4 @@
-Greetings, thank you for visiting my CV. Here's a list of 
+Greetings, thank you for visiting my CV. Here's a list of _professional_ activities that I've done throughout my life that have lead me to where I am today. 
 
 ## SARAH NGUYEN
 
