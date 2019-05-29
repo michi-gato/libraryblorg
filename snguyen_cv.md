@@ -46,15 +46,15 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
  
 #### Technology Consultant for bepress in Berkeley, CA
 (Feb 2013—Dec 2014)
-Collaborate with university faculty & librarians to design, launch, & maintain open-access repositories. Train editors & librarians to integrate regular use of their customized online publishing platform. Liaise between clients & developers to campaign for new features valuable for the user-base. Maintain metadata & OAI compliance standards for research & preservation compatibility.
+* Collaborate with university faculty & librarians to design, launch, & maintain open-access repositories. Train editors & librarians to integrate regular use of their customized online publishing platform. Liaise between clients & developers to campaign for new features valuable for the user-base. Maintain metadata & OAI compliance standards for research & preservation compatibility.
 
 #### Market Researcher for QASymphony in Sài Gòn, VN & Oakland, CA
 (June 2011—Nov 2012)
-Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media.
+* Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media.
 
 #### English Teacher for Institute for Vietnamese Cultrue & Education in Sài Gòn/Cần Thơ/Hà Nội, Vietnam
 (June 2011—Nov 2011)
-Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members.
+* Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members.
 
 ### EDUCATION
 Master of Library & Information Science candidate, University of Washington (Expected 2021)
@@ -70,35 +70,32 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 * WNYC’s Werk It Festival 2018 Scholarship
 
 ### PRESENTATIONS
-
-A Preserve This Podcast workshop. Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
-
-It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
-
-It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie. (2019-05-11)
-
-It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
+It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop) 
+* Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
+* University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
+* Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie. (2019-05-11)
+* Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
 	
 Responsive OER Programming at City Tech. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
 
 ### COMMUNITY ENGAGEMENT
 
-*First Year Student Representative* for Society of American Archivists, University of Washington (SAA-UW) Student Chapter (2018—2019)
+**First Year Student Representative**, Society of American Archivists, University of Washington (SAA-UW) Student Chapter (2018—2019)
 Advocate and plan programming to serve the Society of American Archivists-University of Washington Student Chapter online members. 
 
-*Communications Liaison* for bloggERS—SAA Electronic Resources Section (2018—2019)
+**Communications Liaison**, bloggERS—SAA Electronic Resources Section (2018—2019)
 * Disseminate new blog publications to relevant networks (e.g. listservs, forums, social media, etc.) for the Society of American Archivists Electronic Resources Section blog.
 * Brainstorm and recruit authors and article topics with Editorial Board members.
 
-*Product Manager* for  Delta.NYC | Civic Hall Labs (March—May 2018)
+**Product Manager**, Delta.NYC, Civic Hall Labs (March—May 2018)
 * Lead a team of 4 digital strategists to fulfill Carroll Gardens Association (CGA), a community-based affordable housing & domestic worker rights non-profit, CRM needs in an 8-week pro bono tech program.
 * Guide the team and (CGA) through discovery, strategy, research, configuration, implementation, and training,
 * Develop and integrate a customized Airtable database into CGA’s daily workflow, including comprehensive help documentation for sustainable, efficient, and effective outreach and constituent tracking.         
 
-*Archivist, Volunteer* for Bob Mizer Foundation (Jan 2012—Dec 2014)
+**Archivist, Volunteer**, Bob Mizer Foundation (Jan 2012—Dec 2014)
 * Digitize & restore 50 thousand out of 2 million images, letters, film, & artifacts for a non-profit foundation dedicated to preserve the 50-year career of a 20th century photographer. Record metadata & file naming on Collective Access. Draft finding aid.
 
-*Librarian, Intern* for Luna Dance Institute (Oct 2011—Jan 2015)
+**Librarian, Intern**, Luna Dance Institute (Oct 2011—Jan 2015)
 Promote dance education by hosting open story time for students & families. Implemented cataloging and check out systems for 1,197 books & 403 research articles on to LibraryThing.
 
 ### Skills
@@ -109,10 +106,3 @@ Multimedia editor: Adobe Creative Suite, dvdisaster, iMovie, vrecord
 * Human Language: Conversational in Vietnamese & Spanish, proficient in reading & writing Spanish texts
 * Relevant courses: Metadata & classification systems, information access, reports & technical writing, research methods, design methods, data analysis, statistics, copyrights
 * Craft: movement practice, bicycles, and cooking plants
-
-
-
-
-
-
-
