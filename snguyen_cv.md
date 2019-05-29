@@ -1,3 +1,5 @@
+Greetings, thank you for visiting my CV. Here's a list of 
+
 ## SARAH NGUYEN
 
 ### CURRENT POSITIONS
@@ -46,15 +48,35 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
  
 #### Technology Consultant for bepress in Berkeley, CA
 (Feb 2013—Dec 2014)
-* Collaborate with university faculty & librarians to design, launch, & maintain open-access repositories. Train editors & librarians to integrate regular use of their customized online publishing platform. Liaise between clients & developers to campaign for new features valuable for the user-base. Maintain metadata & OAI compliance standards for research & preservation compatibility.
+* Collaborate with university faculty & librarians to design, launch, & maintain open-access repositories
+* Train editors & librarians to integrate regular use of their customized online publishing platform
+* Liaise between clients & developers to campaign for new features valuable for the userbase
+* Maintain metadata & OAI compliance standards for research & preservation compatibility.
 
 #### Market Researcher for QASymphony in Sài Gòn, VN & Oakland, CA
 (June 2011—Nov 2012)
-* Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media.
+* Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media
 
 #### English Teacher for Institute for Vietnamese Cultrue & Education in Sài Gòn/Cần Thơ/Hà Nội, Vietnam
 (June 2011—Nov 2011)
-* Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members.
+* Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members
+
+#### Managing and PR Director for Experimental College in Davis, CA
+(2010—2011)
+* Create and design quarterly course catalogs, periodicals, and other posters/signs 
+* Promote expansion and control governance of the school
+* Manage publicity, design, instructors, and garden teams to sustain revenue and increase enrollment
+
+#### Research Intern for Russell Ranch Agricultural Sustainability Institute in Davis, CA
+(March 2010—June 2011)
+* Dry, mix, and measure water count in soil and crops in the lab
+* Organize database on irrigation system and tomato weights
+* Harvest, tractor, and gather metrics on crops’ dimensions out in the field
+
+#### Financial Training Administrator for Morgan Stanley in Sacramento, CA
+(Jan 2010—June 2011)
+* Hire, schedule, and create then conduct lesson plans on financial market education workshops to 50+ interns
+
 
 ### EDUCATION
 Master of Library & Information Science candidate, University of Washington (Expected 2021)
