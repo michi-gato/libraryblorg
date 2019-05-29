@@ -1,6 +1,6 @@
 ## SARAH NGUYEN
 
-### Current Positions
+### CURRENT POSITIONS
 
 #### Research Scientist, Git for NYU Libraries in NYC 
 (April 2019—Present)
@@ -26,7 +26,7 @@
 Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly accessible Collective Access interface. 
 * Transcribe and implement an oral history from former dancers.
 
-### Previous Positions
+### PREVIOUS EXPERIENCES
 
 #### Technology Projects Manager for Alliance for Downtown New York in NYC
 (May 2016—June 2018)
@@ -50,39 +50,38 @@ Collaborate with university faculty & librarians to design, launch, & maintain o
 
 #### Market Researcher for QASymphony in Sài Gòn, VN & Oakland, CA
 (June 2011—Nov 2012)
-* Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media.
+Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media.
 
 #### English Teacher for Institute for Vietnamese Cultrue & Education in Sài Gòn/Cần Thơ/Hà Nội, Vietnam
 (June 2011—Nov 2011)
 Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members.
 
-### Education
-Master of Library & Information Science candidate, University of Washington                 
-(Expected 2021)
+### EDUCATION
+Master of Library & Information Science candidate, University of Washington (Expected 2021)
 
 B.A. Economics & B.A. International Relations, University of California, Davis
 
-### Awards
-Code4Lib 2019 Diversity Scholarship
-SXSWEDU Community Scholarship 2019
-Breaking Through: An Open Pedagogy Symposium 2019 Scholarship (The Graduate Center at City University of New York)
-ACRL/NY 2018 Symposium Student Scholarship
-iPres 2018 Portico Sponsorship
-WNYC’s Werk It Festival 2018 Scholarship
+### AWARDS
+* Code4Lib 2019 Diversity Scholarship
+* SXSWEDU Community Scholarship 2019
+* Breaking Through: An Open Pedagogy Symposium 2019 Scholarship (The Graduate Center at City University of New York)
+* ACRL/NY 2018 Symposium Student Scholarship
+* iPres 2018 Portico Sponsorship
+* WNYC’s Werk It Festival 2018 Scholarship
 
-### Presentations
+### PRESENTATIONS
 
-2019-05-18. A Preserve This Podcast workshop. Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie.
+A Preserve This Podcast workshop. Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
 
-2019-05-17. It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie.
+It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
 
-2019-05-11. It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie.
+It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie. (2019-05-11)
 
-2019-03-22. It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie.
+It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop). Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
+	
+Responsive OER Programming at City Tech. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
 
-2019-03-22. Responsive OER Programming at City Tech. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis.
-
-### Community Engagement
+### COMMUNITY ENGAGEMENT
 
 *First Year Student Representative* for Society of American Archivists, University of Washington (SAA-UW) Student Chapter (2018—2019)
 Advocate and plan programming to serve the Society of American Archivists-University of Washington Student Chapter online members. 
