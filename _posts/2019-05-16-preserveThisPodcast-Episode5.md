@@ -8,4 +8,4 @@ My voice talks about a project I've been working on: [Preserve This Podcast](htt
 
 I talk about it on Preserve This Podcast's [Episode 5: RSS Resuscitations](https://radiopublic.com/preserve-this-podcast-WDJY3A/ep/s1!7df2c). Listen to all of the episodes!
 
-All of the gratitude to the PTP team <3
+Gratitude to the PTP team <3
