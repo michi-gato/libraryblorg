@@ -26,6 +26,8 @@ Greetings, you've found a **SARAH NGUYEN** list. Here are the library-related ac
 Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly accessible Collective Access interface. 
 * Transcribe and implement an oral history from former dancers.
 
+---
+
 ### PREVIOUS ROLES
 
 #### Technology Projects Manager for Alliance for Downtown New York in NYC
@@ -75,10 +77,14 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 (Jan 2010—June 2011)
 * Hire, schedule, and create then conduct lesson plans on financial market education workshops to 50+ interns
 
+---
+
 ### EDUCATION
 Master of Library & Information Science candidate, University of Washington (Expected 2021)
 
 B.A. Economics & B.A. International Relations, University of California, Davis
+
+---
 
 ### AWARDS
 * Code4Lib 2019 Diversity Scholarship
@@ -88,6 +94,8 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 * iPres 2018 Portico Sponsorship
 * WNYC’s Werk It Festival 2018 Scholarship
 
+---
+
 ### PRESENTATIONS
 It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop) 
 * Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
@@ -96,6 +104,8 @@ It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)
 * Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
 	
 Responsive OER Programming at City Tech. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
+
+---
 
 ### COMMUNITY ENGAGEMENT
 
@@ -116,6 +126,8 @@ Advocate and plan programming to serve the Society of American Archivists-Univer
 
 **Librarian, Intern**, Luna Dance Institute (Oct 2011—Jan 2015)
 * Promote dance education by hosting open story time for students & families. Implemented cataloging and check out systems for 1,197 books & 403 research articles on to LibraryThing.
+
+---
 
 ### Skills
 * General software: Android & iOS, Bronto, Collective Access, Git/GitHub, G Suite, iWork, MailChimp, Meraki, Microsoft Office, Mac & Windows, OTRS, Ubuntu, Wikimedia
