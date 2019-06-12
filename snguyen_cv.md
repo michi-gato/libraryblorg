@@ -1,10 +1,8 @@
-Greetings, thank you for visiting my CV. Here's a list of _professional_ activities that I've done throughout my life that have lead me to where I am today. 
-
-## SARAH NGUYEN
+Greetings, you've found a **SARAH NGUYEN** list. Here are the library-related activities I've experienced throughout my life that lead me to where I am today.
 
 ### CURRENT POSITIONS
 
-#### Research Scientist, Git for NYU Libraries in NYC 
+#### Git Research Scientist for NYU Libraries in NYC 
 (April 2019—Present)
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Writing and conducting quantiative and qualitative research methods to gather data and understand the scholarly git experience.
@@ -28,7 +26,7 @@ Greetings, thank you for visiting my CV. Here's a list of _professional_ activit
 Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly accessible Collective Access interface. 
 * Transcribe and implement an oral history from former dancers.
 
-### PREVIOUS EXPERIENCES
+### PREVIOUS ROLES
 
 #### Technology Projects Manager for Alliance for Downtown New York in NYC
 (May 2016—June 2018)
@@ -76,7 +74,6 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 #### Financial Training Administrator for Morgan Stanley in Sacramento, CA
 (Jan 2010—June 2011)
 * Hire, schedule, and create then conduct lesson plans on financial market education workshops to 50+ interns
-
 
 ### EDUCATION
 Master of Library & Information Science candidate, University of Washington (Expected 2021)
