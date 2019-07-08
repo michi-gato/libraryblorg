@@ -99,6 +99,8 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### PRESENTATIONS
+_My MLIS + PTP + APALA_. President's Program: The Things We Do Make a Difference. President's Program at ALA Annual 2019. Washington Convention Center, Washington, D.C. (2019-06-22)
+
 _It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ 
 * Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
 * University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
