@@ -1,6 +1,6 @@
-Greetings, you've found a **SARAH NGUYEN** list. Here are the library-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found **SARAH NGUYEN**'s list. Here are the library-related activities I've experienced throughout my life that lead me to where I am today.
 
-### CURRENT POSITIONS
+### CURRENTLY
 
 #### Git Research Scientist for NYU Libraries in NYC 
 (April 2019—Present)
@@ -21,14 +21,14 @@ Greetings, you've found a **SARAH NGUYEN** list. Here are the library-related ac
 
 #### Archives Consultant for Dance Heritage Coalition/Mark Morris Dance Group in NYC
 (May 2018—Present)
-* Contribute to the Mellon grant-funded project, Mark Morris Dance Group Archive Project, in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
+* Contribute to the [Mellon grant-funded project, Mark Morris Dance Group Archive Project](https://mellon.org/grants/grants-database/grants/discalced-inc/41500654/), in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
 * Quality check & catalog born-digital objects into collections management software, Collective Access.
 Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly accessible Collective Access interface. 
 * Transcribe and implement an oral history from former dancers.
 
 ---
 
-### PREVIOUS ROLES
+### PREVIOUSLY
 
 #### Technology Projects Manager for Alliance for Downtown New York in NYC
 (May 2016—June 2018)
@@ -87,9 +87,11 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### AWARDS
+* Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer 2019 (University of Washington iSchool)
+* Multithreading Software Preservation: A Software Preservation and Emulation Workshop Travel Award 2019
 * Code4Lib 2019 Diversity Scholarship
 * SXSWEDU Community Scholarship 2019
-* Breaking Through: An Open Pedagogy Symposium 2019 Scholarship (The Graduate Center at City University of New York)
+* Breaking Open: An Open Pedagogy Symposium 2019 Scholarship (The Graduate Center at City University of New York)
 * ACRL/NY 2018 Symposium Student Scholarship
 * iPres 2018 Portico Sponsorship
 * WNYC’s Werk It Festival 2018 Scholarship
@@ -97,13 +99,13 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### PRESENTATIONS
-It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop) 
+_It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ 
 * Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
 * University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
 * Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie. (2019-05-11)
 * Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
 	
-Responsive OER Programming at City Tech. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
+_Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
 
 ---
 
