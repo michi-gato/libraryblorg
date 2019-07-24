@@ -2,7 +2,7 @@ Greetings, you've found **SARAH NGUYEN**'s list. Here are the library-related ac
 
 ### CURRENTLY
 
-#### Git Research Scientist for NYU Libraries in NYC 
+#### Assistant Research Scientist for NYU Libraries in NYC 
 (April 2019—Present)
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Writing and conducting quantiative and qualitative research methods to gather data and understand the scholarly git experience.
