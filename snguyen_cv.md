@@ -117,6 +117,7 @@ _Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch C
 ### COMMUNITY ENGAGEMENT
 
 **Member, Editorial Board**, bloggERS—SAA Electronic Resources Section (2019-Present)
+
 **Communications Liaison** (2018—2019)
 * Disseminate new blog publications to relevant networks (e.g. listservs, forums, social media, etc.) for the Society of American Archivists Electronic Resources Section blog.
 * Brainstorm and recruit authors and article topics with Editorial Board members.
