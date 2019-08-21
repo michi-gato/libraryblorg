@@ -87,6 +87,7 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### AWARDS
+* DLF Forum 2019: DLF Students & New Professionals Fellowship 
 * Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer 2019 (University of Washington iSchool)
 * Multithreading Software Preservation: A Software Preservation and Emulation Workshop Travel Award 2019
 * Code4Lib 2019 Diversity Scholarship
@@ -98,7 +99,9 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
-### PRESENTATIONS
+### POSTERS + PRESENTATIONS
+_A Quantitative Approach to the Magnetic Media Crisis_. Graduate Student Poster Presentations, 2019 Joint Annual Meeting of the Council of State Archivists (CoSA) and Society of American Archivists (SAA). Austin, TX. (2019-08-04)
+
 _My MLIS + PTP + APALA_. President's Program: The Things We Do Make a Difference. President's Program at ALA Annual 2019. Washington Convention Center, Washington, D.C. (2019-06-22)
 
 _It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ 
