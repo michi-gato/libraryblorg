@@ -7,12 +7,6 @@ Greetings, you've found **SARAH NGUYEN**'s list. Here are the library-related ac
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Writing and conducting quantiative and qualitative research methods to gather data and understand the scholarly git experience.
 
-#### Instructional Design Technologist for CUNY City Tech in NYC
-(September 2018—Present)
-* Survey, analyze, and improve OER course sites for [CUNY City Tech OER Fellowship program](https://libguides.citytech.cuny.edu/c.php?g=292847&p=5872756). Includes reviewing Wordpress/BuddyPress site features for open and accessible practices, liaising with faculty members to collaborate and train on OER site maintenance.
-* Conduct one-on-one OER site maintenance review, and new feature upgrade consultations with faculty.
-* Create documentation and infographic reports of OER Fellowship program highlighting impact and progress.
-
 #### Project Coordinator for Metropolitan New York Library Council in NYC
 (June 2018—Present)
 * Contribute to the Mellon grant-funded project: [Preserve This Podcast](http://preservethispodcast.org/) in planning, communications, documentation, evaluations, outreach, conference proposals, and maintain the program’s web presence and online platforms (e.g. website is built with [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/)).
@@ -29,6 +23,12 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 ---
 
 ### PREVIOUSLY
+
+#### Instructional Design Technologist for CUNY City Tech in NYC
+(September 2018—June 2019)
+* Survey, analyze, and improve OER course sites for [CUNY City Tech OER Fellowship program](https://libguides.citytech.cuny.edu/c.php?g=292847&p=5872756). Includes reviewing Wordpress/BuddyPress site features for open and accessible practices, liaising with faculty members to collaborate and train on OER site maintenance.
+* Conduct one-on-one OER site maintenance review, and new feature upgrade consultations with faculty.
+* Create documentation and infographic reports of OER Fellowship program highlighting impact and progress.
 
 #### Technology Projects Manager for Alliance for Downtown New York in NYC
 (May 2016—June 2018)
@@ -116,12 +116,13 @@ _Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch C
 
 ### COMMUNITY ENGAGEMENT
 
-**First Year Student Representative**, Society of American Archivists, University of Washington (SAA-UW) Student Chapter (2018—2019)
-Advocate and plan programming to serve the Society of American Archivists-University of Washington Student Chapter online members. 
-
-**Communications Liaison**, bloggERS—SAA Electronic Resources Section (2018—2019)
+**Member, Editorial Board**, bloggERS—SAA Electronic Resources Section (2019-Present)
+**Communications Liaison** (2018—2019)
 * Disseminate new blog publications to relevant networks (e.g. listservs, forums, social media, etc.) for the Society of American Archivists Electronic Resources Section blog.
 * Brainstorm and recruit authors and article topics with Editorial Board members.
+
+**First Year Student Representative**, Society of American Archivists, University of Washington (SAA-UW) Student Chapter (2018—2019)
+* Advocate and plan programming to serve the Society of American Archivists-University of Washington Student Chapter online members. 
 
 **Product Manager**, Delta.NYC, Civic Hall Labs (March—May 2018)
 * Lead a team of 4 digital strategists to fulfill Carroll Gardens Association (CGA), a community-based affordable housing & domestic worker rights non-profit, CRM needs in an 8-week pro bono tech program.
