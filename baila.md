@@ -2,5 +2,5 @@
 IAId: 20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact
 ---
 
-## budde french
+## buddè french
 {% include baila_videos.html id=page.IAId %}
