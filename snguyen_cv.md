@@ -13,7 +13,7 @@ Greetings, you've found **SARAH NGUYEN**'s list. Here are the library-related ac
 * Liaise and organize with podcast interviewees, contractors, vendors, press contacts, and other stakeholders.
 * Collaborate with Principal Investigator and main audio archivists in curriculum exercises and relevant podcast news.
 
-#### Archives Consultant for Dance Heritage Coalition/Mark Morris Dance Group in NYC
+#### Media & Digital Asset Manager for Dance Heritage Coalition/Mark Morris Dance Group in NYC
 (May 2018—Present)
 * Contribute to the [Mellon grant-funded project, Mark Morris Dance Group Archive Project](https://mellon.org/grants/grants-database/grants/discalced-inc/41500654/), in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
 * Quality check & catalog born-digital objects into collections management software, Collective Access.
