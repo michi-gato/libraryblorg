@@ -1,7 +1,7 @@
 <h1>bailando</h1>
 
 <p>
-<a href="/2019v_01.md">buddè french</a> presented at Virgo's Day Off <br/>
+<a href="https://michi-gato.github.io/pages/2019v_01.md">buddè french</a> presented at Virgo's Day Off <br/>
 2019-09-19<br/>
 Nebula and the Velvet Queen in Bushwick, NY 
 </p>
