@@ -1,14 +1,25 @@
-<h1>bailando</h1>
+---
+youtubeId: CqXDP7a8Kjk
+IAId: 20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact
+---
 
-<p>
-<a href="https://michi-gato.github.io/pages/2019v_01.md">buddè french</a> presented at Virgo's Day Off <br/>
-2019-09-19<br/>
+## buddè french
+{% include baila_videos.html id=page.IAId %}
+
+presented at Virgo's Day Off
+2019-09-19
 Nebula and the Velvet Queen in Bushwick, NY 
-</p>
-<p>
-<a href="/2019v_02.md">linkRot</a> presented at Radical Networks <br/>
-2019-10-19<br/>
+
+
+## LinkRot
+{% include baila_videos.html id=page.IAId %}
+
+presented at Radical Networks
+2019-10-19
 Prime Produce in New York, NY
-</p>
 
 
+## Lupe Fiasco - Hey Lupe
+{% include youtubePlayer.html id=page.youtubeId %}
+
+released on 2019-10-31
