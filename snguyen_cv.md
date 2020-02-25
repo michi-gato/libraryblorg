@@ -99,7 +99,7 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
-### POSTERS + PRESENTATIONS + Performances
+### POSTERS + PRESENTATIONS + PERFORMANCES
 _Let’s Talk Git!: Investigating and Archiving the Scholarly Git Experience_. Code4Lib. Westin Pittsburgh, Pittsburgh, PA. (2020-03-11)
 
 _linkRot!! Dancing the patterns of digital decay_. Performance, !!Con West 2020. UC Santa Cruz, Santa Cruz, CA. (2020-03-01)
