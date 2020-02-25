@@ -11,11 +11,11 @@ Greetings, you've found **Sarah Nguyen**. Here are the library-related activitie
 
 ### PREVIOUSLY
 
-#### Project Coordinator for Metropolitan New York Library Council in NYC
+#### Project Coordinator for Preserve This Podcast in NYC
 (June 2018—February 2020)
-* Contribute to the Mellon grant-funded project: [Preserve This Podcast](http://preservethispodcast.org/) in planning, communications, documentation, evaluations, outreach, conference proposals, and maintain the program’s web presence and online platforms (e.g. website is built with [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/)).
+* Contribute to the [Metropolitan New York Library Council](https://metro.org/) & [Mellon grant-funded](https://mellon.org/grants/grants-database/grants/new-york-metropolitan-reference-research-library-agency/1711-05080/) project: [Preserve This Podcast](http://preservethispodcast.org/) in planning, communications, documentation, evaluations, outreach, conference proposals, and maintain the program’s web presence and online platforms (e.g. website is built with [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/)).
 * Liaise and organize with podcast interviewees, contractors, vendors, press contacts, and other stakeholders.
-* Collaborate with Principal Investigator and main audio archivists in curriculum exercises and relevant podcast news.
+* Collaborate with Principal Investigator and Co-Lead audio archivists in curriculum exercises and relevant podcast news.
 
 #### Media & Digital Asset Manager for Dance Heritage Coalition/Mark Morris Dance Group in NYC
 (May 2018—December 2019)
