@@ -4,7 +4,7 @@ IAId: ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfil
 IAId02: ia902806.us.archive.org/12/items/20200131_ageofaqua_snguyen_mkeaney/20200131_ageOfAqua_SNguyen_MKeaney.mp4
 ---
 
-## <a href="https://ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact/20190919_virgosDayOff_buddeFrench_Bushwick_filmedByArtifact.mp4">buddè french</a>
+## buddè french
 
 presented at Virgo's Day Off (2019-09-19) at Nebula and the Velvet Queen in Bushwick, NY. 
 
