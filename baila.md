@@ -18,13 +18,13 @@ presented at Virgo's Day Off (2019-09-19) at Nebula and the Velvet Queen in Bush
 v1 presented at Radical Networks (2019-10-19) at Prime Produce in New York, NY. 
 v2 presented at !!Con West (2020-03-01) at Baskin Engineering UCSC in Santa Cruz, CA.
 
-<img src="{{site.baseurl}}/assets/linkrotBang-slow-bw.gif" alt="animated gif of hair flip in dance piece" height="140">
+<img src="{{site.baseurl}}/assets/linkrotBang-short-bw.gif" alt="animated gif of linkrot from musician's video streaming set up" height="140">
 
 ## Lupe Fiasco - Hey Lupe
 
 released on 2019-10-31
 
-<img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif from musician's video streaming set up" height="140">   
+<img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="140">   
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
