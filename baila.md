@@ -20,11 +20,11 @@ presented at Radical Networks (2019-10-19) at Prime Produce in New York, NY.
 
 released on 2019-10-31
 
-<img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="344" width="150">   {% include youtubePlayer.html id=page.youtubeId %}
+<img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="344">   {% include youtubePlayer.html id=page.youtubeId %}
 
 
 ## conversation to getting comfortable
 
 presented at Don't Ask My Age of Aquarius (2020-01-31) at the Metropolitan New York Library Council in New York, NY. 
 
-<img src="{{site.baseurl}}/assets/aqua-short-bw.gif" alt="animated gif of dancer and musician performing with audience watching" height="344" width="150">   {% include iaPlayer02.html id=page.IAId02 %}
+<img src="{{site.baseurl}}/assets/aqua-short-bw.gif" alt="animated gif of dancer and musician performing with audience watching" height="344">   {% include iaPlayer02.html id=page.IAId02 %}
