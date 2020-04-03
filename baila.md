@@ -1,7 +1,7 @@
 ---
 youtubeId: CqXDP7a8Kjk
-IAId: 20200301_linkrot_bangbangconwest/20200301_linkRot_bangBangCon_rRahni_musicLatency.mp4
-IAId2: 
+IAId: ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact/20190919_virgosDayOff_buddeFrench_Bushwick_filmedByArtifact.mp4
+IAId02: ia902806.us.archive.org/12/items/20200131_ageofaqua_snguyen_mkeaney/20200131_ageOfAqua_SNguyen_MKeaney.mp4
 ---
 
 ## <a href="https://ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact/20190919_virgosDayOff_buddeFrench_Bushwick_filmedByArtifact.mp4">buddè french</a>
@@ -17,6 +17,7 @@ presented at Virgo's Day Off (2019-09-19) at Nebula and the Velvet Queen in Bush
 
 presented at Radical Networks (2019-10-19) at Prime Produce in New York, NY.
 
+<img src="{{site.baseurl}}/assets/xxxxxx.gif">
 
 ## Lupe Fiasco - Hey Lupe
 
@@ -27,3 +28,6 @@ released on 2019-10-31
 ## conversation to getting comfortable
 
 presented at Don't Ask My Age of Aquarius (2020-01-31) at the Metropolitan New York Library Council in New York, NY. 
+
+{% include iaPlayer02.html id=page.IAId02 %}
+
