@@ -8,9 +8,7 @@ IAId02: ia902806.us.archive.org/12/items/20200131_ageofaqua_snguyen_mkeaney/2020
 
 presented at Virgo's Day Off (2019-09-19) at Nebula and the Velvet Queen in Bushwick, NY. 
 
-<img src="{{site.baseurl}}/assets/virgosDay-slow.gif" alt="animated gif of hair flip in dance piece" height="344" width="150">
-
-{% include iaPlayer.html id=page.IAId %}
+<img src="{{site.baseurl}}/assets/virgosDay-slow.gif" alt="animated gif of hair flip in dance piece" height="444" width="250">   {% include iaPlayer.html id=page.IAId %}
 
 
 ## LinkRot
@@ -22,15 +20,11 @@ presented at Radical Networks (2019-10-19) at Prime Produce in New York, NY.
 
 released on 2019-10-31
 
-<img src="{{site.baseurl}}/assets/lupe-short.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="344" width="150">
-
-{% include youtubePlayer.html id=page.youtubeId %}
+<img src="{{site.baseurl}}/assets/lupe-short.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="344" width="150">   {% include youtubePlayer.html id=page.youtubeId %}
 
 
 ## conversation to getting comfortable
 
 presented at Don't Ask My Age of Aquarius (2020-01-31) at the Metropolitan New York Library Council in New York, NY. 
 
-<img src="{{site.baseurl}}/assets/aqua-short.gif" alt="animated gif of dancer and musician performing with audience watching" height="344" width="150">
-
-{% include iaPlayer02.html id=page.IAId02 %}
+<img src="{{site.baseurl}}/assets/aqua-short.gif" alt="animated gif of dancer and musician performing with audience watching" height="344" width="150">   {% include iaPlayer02.html id=page.IAId02 %}
