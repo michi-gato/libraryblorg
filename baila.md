@@ -13,7 +13,7 @@ presented at Virgo's Day Off (2019-09-19) at Nebula and the Velvet Queen in Bush
 {% include iaPlayer.html id=page.IAId %}
 
 
-## <a href="{{sit.baseurl}}/2020-03-14-linkrot.html">LinkRot</a>
+## <a href="{{sit.baseurl}}/2020/03/14/linkrot.html">LinkRot</a>
 
 v1 presented at Radical Networks (2019-10-19) at Prime Produce in New York, NY. 
 v2 presented at !!Con West (2020-03-01) at Baskin Engineering UCSC in Santa Cruz, CA.
