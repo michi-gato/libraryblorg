@@ -12,7 +12,7 @@ curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by 
 {% include iaPlayer.html id=page.IAId %}
 
 
-## <a href="{{sit.baseurl}}/2020/03/14/linkrot.html">LinkRot</a>
+## <a href="{{sit.baseurl}}/2020/03/14/linkrot.html">linkRot</a>
 
 v1 presented at Radical Networks at Prime Produce in New York, NY. (2019-10-19)<br />v2 presented at !!Con West at Baskin Engineering UCSC in Santa Cruz, CA. (2020-03-01)
 
