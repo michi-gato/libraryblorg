@@ -1,8 +1,8 @@
-Greetings, you've found **Sarah Nguyen**. Here are the library-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found **Sarah Nguyen**. Here are the library/archive-related activities I've experienced throughout my life that lead me to where I am today.
 
-### CURRENTLY
+# CURRENTLY
 
-#### Assistant Research Scientist for NYU Libraries in NYC 
+#### Research Scientist for NYU Libraries in NYC 
 (April 2019—Present)
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Write and conduct quantiative and qualitative research methods to gather data and understand scholars and researchers' processes and behaviorial trends with Git and Git hosting platforms.
@@ -80,13 +80,14 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 ---
 
 ### EDUCATION
-Master of Library & Information Science candidate, University of Washington (Expected 2021)
+Master of Library & Information Science candidate, University of Washington (Expected 2020)
 
 B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
 ### AWARDS
+* Nancy J. Gershenfeld Endowment for Doctoral Student Support 2020
 * DLF Forum 2019: DLF Students & New Professionals Fellowship 
 * Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer 2019 (University of Washington iSchool)
 * Multithreading Software Preservation: A Software Preservation and Emulation Workshop Travel Award 2019
@@ -100,6 +101,8 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### POSTERS + PRESENTATIONS + PERFORMANCES
+_commit-ment issues with Git: investigating & archiving y’alls work_. csv,conf,v5. (2020-05)
+
 _Let’s Talk Git!: Investigating and Archiving the Scholarly Git Experience_. Code4Lib. Westin Pittsburgh, Pittsburgh, PA. (2020-03-11)
 
 _linkRot!! Dancing the patterns of digital decay_. Performance, !!Con West 2020. UC Santa Cruz, Santa Cruz, CA. (2020-03-01)
