@@ -2,7 +2,11 @@ Greetings, you've found **Sarah Nguyen**. Here are the library/archive-related a
 
 # CURRENTLY
 
-#### Research Scientist for NYU Libraries in NYC 
+#### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
+(June 2020—Present)
+* Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving AXIS Dance Company's 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+
+### Research Scientist for NYU Libraries in NYC
 (April 2019—Present)
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Write and conduct quantiative and qualitative research methods to gather data and understand scholars and researchers' processes and behaviorial trends with Git and Git hosting platforms.
@@ -80,7 +84,9 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 ---
 
 ### EDUCATION
-Master of Library & Information Science candidate, University of Washington (Expected 2020)
+Pre-doctoral candidate, University of Washington (Expected 2025)
+
+Master of Library & Information Science, University of Washington (Expected 2020)
 
 B.A. Economics & B.A. International Relations, University of California, Davis
 
@@ -129,9 +135,9 @@ _Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch C
 
 ### COMMUNITY ENGAGEMENT
 
-**Officer**, MLIS Students of Color at University of Washington (2019-Present)
+**Officer**, MLIS Students of Color at University of Washington (2019-2020)
 
-**Member, Editorial Board**, bloggERS—SAA Electronic Resources Section (2019-Present)
+**Member, Editorial Board**, bloggERS—SAA Electronic Resources Section (2019-2020)
 **Communications Liaison** (2018—2019)
 * Disseminate new blog publications to relevant networks (e.g. listservs, forums, social media, etc.) for the Society of American Archivists Electronic Resources Section blog.
 * Brainstorm and recruit authors. Edit and publish articles.
