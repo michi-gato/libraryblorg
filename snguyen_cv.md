@@ -6,7 +6,7 @@ Greetings, you've found Sarah Nguyen. Here are the library/archive-related activ
 (June 2020-Present)
 * Develop and evaluate qualitative research prototypes for [NSF’s COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/).
 
-### Pre-Doctoral Research Associate
+### Pre-Doctoral Research Associate for the University of Washington iSchool
 (June 2020-Present)
 * Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective. 
 * Outline and scope potential areas of research and prepare research project proposal, according to found gaps.
