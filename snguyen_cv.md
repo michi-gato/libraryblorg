@@ -11,7 +11,7 @@ Greetings, you've found Sarah Nguyen. Here are the library/archive-related activ
 * Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective. 
 * Outline and scope potential areas of research and prepare research project proposal, according to found gaps.
 
-#### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
+### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
 (June 2020—Present)
 * Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
 
