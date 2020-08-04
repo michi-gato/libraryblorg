@@ -1,10 +1,19 @@
-Greetings, you've found **Sarah Nguyen**. Here are the library/archive-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found Sarah Nguyen. Here are the library/archive-related activities I've experienced throughout my life that lead me to where I am today.
 
 # CURRENTLY
 
+### Graduate Research Associate for the Center for an Informed Public, University of Washington iSchool
+(June 2020-Present)
+* Develop and evaluate qualitative research prototypes for [NSF’s COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/).
+
+### Pre-Doctoral Research Associate
+(June 2020-Present)
+* Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective. 
+* Outline and scope potential areas of research and prepare research project proposal, according to found gaps.
+
 #### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
 (June 2020—Present)
-* Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving AXIS Dance Company's 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+* Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
 
 ### Research Scientist for NYU Libraries in NYC
 (April 2019—Present)
@@ -17,7 +26,8 @@ Greetings, you've found **Sarah Nguyen**. Here are the library/archive-related a
 
 #### Project Coordinator for Preserve This Podcast in NYC
 (June 2018—February 2020)
-* Contribute to the [Metropolitan New York Library Council](https://metro.org/) & [Mellon grant-funded](https://mellon.org/grants/grants-database/grants/new-york-metropolitan-reference-research-library-agency/1711-05080/) project: [Preserve This Podcast](http://preservethispodcast.org/) in planning, communications, documentation, evaluations, outreach, conference proposals, and maintain the program’s web presence and online platforms (e.g. website is built with [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/)).
+* Contribute to the [Metropolitan New York Library Council](https://metro.org/) & [Mellon grant-funded](https://mellon.org/grants/grants-database/grants/new-york-metropolitan-reference-research-library-agency/1711-05080/) project: [Preserve This Podcast](http://preservethispodcast.org/)
+* Plan, manage communications, documentation, evaluations, outreach, conference proposals, and maintain the program’s web presence and online platforms (e.g. website is built with Jekyll on GitHub Pages.
 * Liaise and organize with podcast interviewees, contractors, vendors, press contacts, and other stakeholders.
 * Collaborate with Principal Investigator and Co-Lead audio archivists in curriculum exercises and relevant podcast news.
 
@@ -25,7 +35,7 @@ Greetings, you've found **Sarah Nguyen**. Here are the library/archive-related a
 (May 2018—December 2019)
 * Contribute to the [Mellon grant-funded project, Mark Morris Dance Group Archive Project](https://mellon.org/grants/grants-database/grants/discalced-inc/41500654/), in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
 * Quality check & catalog born-digital objects into collections management software, Collective Access.
-Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly accessible Collective Access interface. 
+Plan & set up backup cloud system (DigitalOcean & AWS), DAM workflow, and publicly accessible Collective Access interface. 
 * Transcribe and implement an oral history from former dancers.
 
 #### Instructional Design Technologist for CUNY City Tech in NYC
@@ -39,7 +49,7 @@ Plan & set up backup cloud system (DigitalOcean), DAM workflow, and publicly acc
 * Convert internal data & publish onto an accessible platform, including managing development of a business intelligence database. Data includes but is not limited to building specs, business/retail stats, constituent contact info, population, tourism trends, WiFi usage, & approx. 50,000 images, 1,300 video, 127 VHS tapes.
 * Collaborate with IT consultant to support 70+ employees’ workstations, coworking spaces, community events, & drove a Windows to Mac & Office to G Suite network-hardware overhaul across 4 office locations. Continuing hardware/software training sessions.
 * Pilot new technologies for the urban setting in partnership with district constituents (residents, workers, tourists), tech startups, NYU, data scientists in efforts to expand the Lower Manhattan Laboratory initiative. 
-* Completed free public WiFi installations covering 4 million ft2 on Broadway & Water Street corridors by negotiating with building managers, NYCEDC, & WiFi providers through legal agreements/COIs. Continuing WiFi expansion to Battery Park City and more. 
+* Completed free public WiFi installations covering 4 million square feet on Broadway & Water Street corridors by negotiating with building managers, NYCEDC, & WiFi providers through legal agreements/COIs. Continuing WiFi expansion to Battery Park City and more. 
 * Consult, coordinate, & draft RFP’s for technology acquisitions for fleet management, sanitation tracking, public safety incidents, economic development research, pedestrian counters, tourism, WiFi, and CRM/business intelligence database etc.
 
 #### Associate Development Editor for Macmillan Learning in NYC
@@ -106,30 +116,39 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
+### Publication
+
+Kidd, M., **Nguyen, S.**, & Titkemeyer, E. (2020). Subscribe, Rate and Preserve Wherever You Get Your Podcasts. Journal of Archival Organization, 0(0), 1–17. https://doi.org/10.1080/15332748.2020.1769997
+
+---
+
 ### POSTERS + PRESENTATIONS + PERFORMANCES
-_commit-ment issues with Git: investigating & archiving y’alls work_. csv,conf,v5. (2020-05)
 
-_Let’s Talk Git!: Investigating and Archiving the Scholarly Git Experience_. Code4Lib. Westin Pittsburgh, Pittsburgh, PA. (2020-03-11)
+_Saving Software for Future [Re]use_. (2020-08-06) Moderated panel discussion. 2020 Joint Annual Meeting of the Council of State Archivists (CoSA) and Society of American Archivists (SAA). 
 
-_linkRot!! Dancing the patterns of digital decay_. Performance, !!Con West 2020. UC Santa Cruz, Santa Cruz, CA. (2020-03-01)
+_commit-ment issues with Git: investigating & archiving y’alls work_. (2020-05) Presented with Vicky Steeves. csv,conf,v5. 
+
+_Let’s Talk Git!: Investigating and Archiving the Scholarly Git Experience_. (2020-03-11) Presented with Genevieve Milliken and Vicky Steeves. Code4Lib. Westin Pittsburgh, Pittsburgh, PA. 
+
+_linkRot!! Dancing the patterns of digital decay_. (2020-03-01) Performance, !!Con West 2020. UC Santa Cruz, Santa Cruz, CA. 
 
 _Preserving Podcasts: How Libraries Can Help_. Association for Library Collections & Technical Services (ALCTS) Webinar. (2019-12-04)
 
-_LinkRot_. Performance, Radical Networks. Prime Produce, New York, NY. (2019-10-19) 
+_LinkRot_. (2019-10-19) Performance, Radical Networks. Prime Produce, New York, NY. 
 
-_A Quantitative Approach to the Magnetic Media Crisis_. Graduate Student Poster Presentations, 2019 Joint Annual Meeting of the Council of State Archivists (CoSA) and Society of American Archivists (SAA). Austin, TX. (2019-08-04)
+_A Quantitative Approach to the Magnetic Media Crisis_. (2019-0804) Presented with Jared Nister. Graduate Student Poster Presentations, 2019 Joint Annual Meeting of the Council of State Archivists (CoSA) and Society of American Archivists (SAA). Austin, TX. 
 
-_My MLIS + PTP + APALA_. President's Program: The Things We Do Make a Difference. President's Program at ALA Annual 2019. Washington Convention Center, Washington, D.C. (2019-06-22)
+_My MLIS + PTP + APALA_. (2019-06-22) President's Program: The Things We Do Make a Difference. President's Program at ALA Annual 2019. Washington Convention Center, Washington, D.C. 
 
 _It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ 
-* 2-part webinar hosted by Metropolitan New York Library Council. With Dana Gerber-Margie and Mary Kidd. (2020-01-23)
-* Audio Engineering Society (AES). New York, NY. With Molly Schwartz. (2019-10-18)
-* Outlier Podcast Festival, Austin, TX. With Dana Gerber-Margie. (2019-05-18) 
-* University of Texas at Austin Libraries, Austin, TX. With Dana Gerber-Margie. (2019-05-17)
-* Center for Investigative Reporting, Emeryville, CA. With Mary Kidd and Dana Gerber-Margie. (2019-05-11)
-* Metropolitan New York Library Council, New York City. With Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
+* 2-part webinar hosted by Metropolitan New York Library Council. Conducted with Dana Gerber-Margie and Mary Kidd. (2020-01-23)
+* Audio Engineering Society (AES). New York, NY. Conducted with Molly Schwartz. (2019-10-18)
+* Outlier Podcast Festival, Austin, TX. COnducted with Dana Gerber-Margie. (2019-05-18) 
+* University of Texas at Austin Libraries, Austin, TX. Conducted with Dana Gerber-Margie. (2019-05-17)
+* Center for Investigative Reporting, Emeryville, CA. Coducted with Mary Kidd and Dana Gerber-Margie. (2019-05-11)
+* Metropolitan New York Library Council, New York City. Conducted with Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
 	
-_Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. With Cailean Cooney and Elvis Bakaitis. (2019-03-22) 
+_Responsive OER Programming at City Tech_. (2019-03-22) Presented with Cailean Cooney and Elvis Bakaitis. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. 
 
 ---
 
@@ -138,6 +157,7 @@ _Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch C
 **Officer**, MLIS Students of Color at University of Washington (2019-2020)
 
 **Member, Editorial Board**, bloggERS—SAA Electronic Resources Section (2019-2020)
+
 **Communications Liaison** (2018—2019)
 * Disseminate new blog publications to relevant networks (e.g. listservs, forums, social media, etc.) for the Society of American Archivists Electronic Resources Section blog.
 * Brainstorm and recruit authors. Edit and publish articles.
@@ -158,6 +178,7 @@ _Responsive OER Programming at City Tech_. CUNY/SUNY OER Showcase 2019, Baruch C
 ---
 
 ### Skills
+
 * General software: Android & iOS, Bronto, Collective Access, Git/GitHub, G Suite, iWork, MailChimp, Meraki, Microsoft Office, Mac & Windows, OTRS, Ubuntu, Wikimedia
 Multimedia editor: Adobe Creative Suite, dvdisaster, iMovie, vrecord
 * Data/Project management: Airtable, Asana, Atlassian, Basecamp, graphviz, OpenRefine, Raiser’s Edge, Salesforce, Trello
