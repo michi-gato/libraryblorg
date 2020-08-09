@@ -118,7 +118,7 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 
 ### Publication
 
-Kidd, M., **Nguyen, S.**, & Titkemeyer, E. (2020). Subscribe, Rate and Preserve Wherever You Get Your Podcasts. Journal of Archival Organization, 0(0), 1–17. https://doi.org/10.1080/15332748.2020.1769997
+Kidd, M., **Nguyen, S.**, & Titkemeyer, E. (2020). [Subscribe, Rate and Preserve Wherever You Get Your Podcasts](https://github.com/michi-gato/michi-gato.github.io/tree/master/assets/pubs/2020_kidd-nguyen-titkemeyer_SubscribeRateandPreserveWhereverYouGetYourPodcasts.pdf). Journal of Archival Organization, 0(0), 1–17. https://doi.org/10.1080/15332748.2020.1769997
 
 ---
 
