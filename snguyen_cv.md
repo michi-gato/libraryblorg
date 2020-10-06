@@ -1,19 +1,16 @@
-Greetings, you've found Sarah Nguyen. Here are the library/archive-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found Sarah Nguyen. Here are the information-related activities I've experienced throughout my life that lead me to where I am today.
 
 # CURRENTLY
 
-### Graduate Research Associate for the Center for an Informed Public, University of Washington iSchool
-June 2020-Present
-* Develop and evaluate qualitative research prototypes for [NSF’s COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/).
-
 ### Pre-Doctoral Research Associate for the University of Washington iSchool
 June 2020-Present
-* Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective. 
-* Outline and scope potential areas of research and prepare research project proposal, according to found gaps.
+* Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective for the BITS Lab, under Nic Weber.
+* Outline and scope potential areas of research and prepare research project proposal, according to found gaps
+* Qualitative research, analysis, and findings for the NSF COVID-19 Rapid Response Research Program for CIP, under Emma Spiro and Kate Starbird.
 
-### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
-June 2020—Present
-* Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+### Graduate Research Associate for the Center for an Informed Public, University of Washington iSchool
+June-September 2020
+* Develop and evaluate qualitative research prototypes for [NSF’s COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/).
 
 ### Research Scientist for NYU Libraries in NYC
 April 2019—Present
@@ -23,6 +20,12 @@ April 2019—Present
 ---
 
 ### PREVIOUSLY
+
+### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland,
+CA
+June-September 2020
+* Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+
 
 #### Project Coordinator for Preserve This Podcast in NYC
 June 2018—February 2020
