@@ -99,13 +99,14 @@ Jan 2010—June 2011
 ### EDUCATION
 Pre-doctoral candidate, University of Washington (Expected 2025)
 
-Master of Library & Information Science, University of Washington (Expected 2020)
+Master of Library & Information Science, University of Washington
 
 B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
 ### AWARDS
+* 2020 - The National Trust for Historic Preservation PastForward Online Diversity Scholarship
 * 2020 - Nancy J. Gershenfeld Endowment for Doctoral Student Support
 * 2019 - DLF Forum: DLF Students & New Professionals Fellowship 
 * 2019 - Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer (University of Washington iSchool)
