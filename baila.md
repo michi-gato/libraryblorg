@@ -15,7 +15,7 @@ curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by 
 curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by Virgo's Day Off at Nebula and the Velvet Queen in Bushwick, NY. (2019-09-19)
 <p align="center">
 <img src="{{site.baseurl}}/assets/virgosDay-slow-bw.gif" alt="animated gif of hair flip in dance piece" height="140">   
-
+<p align="center">
 {% include iaPlayer.html id=page.IAId %}
 </p>
 
@@ -31,7 +31,7 @@ v1 presented at Radical Networks at Prime Produce in New York, NY. (2019-10-19)<
 director: [Time Westover](http://westovercam.com/). Choreographer: [Kareem Woods](https://www.instagram.com/andrekwoods/). Released on 2019-10-31.
 <p align="center">
 <img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="140">   
-
+<p align="center">
 {% include youtubePlayer.html id=page.youtubeId %}
 </p>
 
