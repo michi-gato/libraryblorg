@@ -7,7 +7,7 @@ IAId: ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfil
 curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by [Virgo's Year Off](https://vimeo.com/472306291). (2020 Autumn)
 30 x 3 virgin remy: $200 OBO is an experimental dance film and craigslist ad about long hair and life in rural Vietnam during 1972-1974.
 
-<img src="{{base}}/assets/lostArchive_02.png" alt="still from film of person in black pants and tan tank top bending forward, with right hand and hair touch the floor, standing on white paper with white canvas hanging behind. Sepia photo overlayed opaquely overlaid over person." height="340">
+<img src="{{base}}/assets/remy.gif" alt="animated gif flashing between black/white and vintage photographs of vietnamese people">
 
 ## buddè french
 
