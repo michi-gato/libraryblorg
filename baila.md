@@ -18,7 +18,7 @@ curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by 
 <p align="center">
 {% include iaPlayer.html id=page.IAId %}
 </p>
-
+</p>
 ## <a href="{{sit.baseurl}}/2020/03/14/linkrot.html">linkRot</a>
 
 v1 presented at Radical Networks at Prime Produce in New York, NY. (2019-10-19)<br />v2 presented at !!Con West at Baskin Engineering UCSC in Santa Cruz, CA. (2020-03-01)
@@ -33,6 +33,7 @@ director: [Time Westover](http://westovercam.com/). Choreographer: [Kareem Woods
 <img src="{{site.baseurl}}/assets/lupe-short-bw.gif" alt="animated gif of dancers in Lupe Fiasco music video" height="140">   
 <p align="center">
 {% include youtubePlayer.html id=page.youtubeId %}
+</p>
 </p>
 
 ## <a href="{{sit.baseful}}/2020/02/14/age-of-aquarius-nyc.html">a conversation to get comfortable</a>
