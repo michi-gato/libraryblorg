@@ -2,6 +2,12 @@
 youtubeId: CqXDP7a8Kjk
 IAId: ia801006.us.archive.org/5/items/20190919virgosdayoffbuddefrenchbushwickfilmedbyartifact/20190919_virgosDayOff_buddeFrench_Bushwick_filmedByArtifact.mp4
 ---
+## <a href="{{site.baseurl}}/2020/09/30/30x3.html">30 x 3 virgin remy: $200 OBO</a>
+
+curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by [Virgo's Year Off](https://vimeo.com/472306291). (2020 Autumn)
+30 x 3 virgin remy: $200 OBO is an experimental dance film and craigslist ad about long hair and life in rural Vietnam during 1972-1974.
+
+<img src="{{base}}/assets/lostArchive_02.png" alt="still from film of person in black pants and tan tank top bending forward, with right hand and hair touch the floor, standing on white paper with white canvas hanging behind. Sepia photo overlayed opaquely overlaid over person." height="340">
 
 ## buddè french
 
