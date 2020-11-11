@@ -1,5 +1,6 @@
 name: michi-gato, library blorg praxis
 markdown: kramdown
+remote_theme: arnolds/pineapple
 
 # Sass settings
 sass:
