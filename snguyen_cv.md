@@ -20,6 +20,7 @@ April 2019—Present
 ### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
 June-September 2020
 * Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+* Conduct oral histories with emerita and acting Artistic Directors 
 
 #### Project Coordinator for Preserve This Podcast in NYC
 June 2018—February 2020
@@ -33,7 +34,7 @@ May 2018—December 2019
 * Contribute to the [Mellon grant-funded project, Mark Morris Dance Group Archive Project](https://mellon.org/grants/grants-database/grants/discalced-inc/41500654/), in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
 * Quality check & catalog born-digital objects into collections management software, Collective Access.
 Plan & set up backup cloud system (DigitalOcean & AWS), DAM workflow, and publicly accessible Collective Access interface. 
-* Transcribe and implement an oral history from former dancers.
+* Transcribe and conductoral histories with former dancers and administrative staff.
 
 #### Instructional Design Technologist for CUNY City Tech in NYC
 September 2018—June 2019
