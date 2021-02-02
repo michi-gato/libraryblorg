@@ -4,21 +4,22 @@ Greetings, you've found SARAH NGUYỄN. Here are the information-related activit
 
 ### Pre-Doctoral Research Associate for the University of Washington iSchool
 June 2020-Present
+(dual appointment advised by Nic Weber and Emma Spiro)
 * Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective for the BITS Lab, under Nic Weber.
 * Outline and scope potential areas of research and prepare research project proposal, according to found gaps
 * Qualitative research, analysis, and findings for the Center for an Informed Public [NSF COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/), under Emma Spiro and Kate Starbird.
 
+---
+
+## PREVIOUSLY
+
 ### Research Scientist for NYU Libraries in NYC
-April 2019—Present
+April 2019—November 2020
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Write and conduct quantiative and qualitative research methods to gather data and understand scholars and researchers' processes and behaviorial trends with Git and Git hosting platforms.
 
----
-
-### PREVIOUSLY
-
 ### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
-June-September 2020
+Summer 2020/2021
 * Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
 * Conduct oral histories with emerita and acting Artistic Directors 
 
@@ -53,7 +54,7 @@ May 2016—June 2018
 #### Associate Development Editor for Macmillan Learning in NYC
 Aug 2015—April 2016
 #### Digital Solutions Coordinator
-(Dec 2014—Aug 2015)
+Dec 2014—Aug 2015
 * Design & lead the in-house e-book and Course Management System (CMS) training program. Create & disseminate updated documentation on software features and training across all higher education subjects and publishing house departments.
 * Edit & develop content criteria for manuscripts (text, art, & activities) for education economics textbooks.
 * Develop editorial standards for digital production & integration by analyzing sales data to recruit editorial review boards & authors. 
@@ -101,6 +102,7 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### AWARDS
+* 2021 - Institute for Data, Democracy & Politics at The George Washington University Research Fellowship
 * 2020 - The National Trust for Historic Preservation PastForward Online Diversity Scholarship
 * 2020 - Nancy J. Gershenfeld Endowment for Doctoral Student Support
 * 2019 - DLF Forum: DLF Students & New Professionals Fellowship 
@@ -115,7 +117,9 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 
 ---
 
-### Publication
+### Publications
+
+Milliken, G., **Nguyen, S.** & Steeves, V. (2021). A Behavioral Approach to Understanding the Git Experience. Software Survivability: Strategies For Long-lasting And Usable Research Software, Proceedings of the Hawaii International Conference on System Sciences-54.
 
 Kidd, M., **Nguyen, S.**, & Titkemeyer, E. (2020). [Subscribe, Rate and Preserve Wherever You Get Your Podcasts](https://github.com/michi-gato/michi-gato.github.io/tree/master/assets/pubs/2020_kidd-nguyen-titkemeyer_SubscribeRateandPreserveWhereverYouGetYourPodcasts.pdf). Journal of Archival Organization, 0(0), 1–17. https://doi.org/10.1080/15332748.2020.1769997
 
