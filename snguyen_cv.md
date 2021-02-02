@@ -1,4 +1,4 @@
-Greetings, you've found Sarah Nguyen. Here are the information-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found SARAH NGUYỄN. Here are the information-related activities I've experienced throughout my life that lead me to where I am today.
 
 # CURRENTLY
 
