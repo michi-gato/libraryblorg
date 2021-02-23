@@ -94,6 +94,7 @@ Jan 2010—June 2011
 
 ### EDUCATION
 Pre-doctoral candidate, University of Washington (Expected 2025)
+* Advised by Marika Cifor & Nic Weber
 
 Master of Library & Information Science, University of Washington
 
