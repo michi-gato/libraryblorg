@@ -1,17 +1,17 @@
-Greetings, you've found Sarah Nguyen. Here are the information-related activities I've experienced throughout my life that lead me to where I am today.
+Greetings, you've found Sarah Nguyễn. Here are the information-related activities I've experienced throughout my life that lead me to where I am today.
 
 # CURRENTLY
 
 ### Pre-Doctoral Research Associate for the University of Washington iSchool
-June 2020-Present
-* Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective for the BITS Lab, under Nic Weber.
+June 2020—Present
+* Conduct and write literature review on the landscape of open source hardware and instrumentation from the information science perspective, and conduct qualitative and scientometric methods on humanitarian scholarship for [Privacy Encodings of Sensitive Data](https://pesdata.github.io/), funded by the Alfred P. Sloan Foundation. Supervised by Nic Weber.
 * Outline and scope potential areas of research and prepare research project proposal, according to found gaps
-* Qualitative research, analysis, and findings for the Center for an Informed Public [NSF COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/), under Emma Spiro and Kate Starbird.
+* Qualitative research, analysis, and findings for the Center for an Informed Public [NSF COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/). Supervised by Emma Spiro and Kate Starbird.
 
 ### Research Scientist for NYU Libraries in NYC
 April 2019—Present
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
-* Write and conduct quantiative and qualitative research methods to gather data and understand scholars and researchers' processes and behaviorial trends with Git and Git hosting platforms.
+* Write and conduct quantitative and qualitative research methods to gather data and understand scholars and researchers' processes and behavioral trends with Git and Git hosting platforms.
 
 ---
 
@@ -64,34 +64,11 @@ Feb 2013—Dec 2014
 * Liaise between clients & developers to campaign for new features valuable for the userbase
 * Maintain metadata & OAI compliance standards for research & preservation compatibility.
 
-#### Market Researcher for QASymphony in Sài Gòn, VN & Oakland, CA
-June 2011—Nov 2012
-* Design brand & online strategy for QA software startup by analyzing industry trends, Google Analytics, & social media
-
-#### English Teacher for Institute for Vietnamese Cultrue & Education in Sài Gòn/Cần Thơ/Hà Nội, Vietnam
-June 2011—Nov 2011
-* Conduct daily English literacy, speaking, listening, & pop culture lessons with local students & community members
-
-#### Managing and PR Director for Experimental College in Davis, CA
-2010—2011
-* Create and design quarterly course catalogs, periodicals, and other posters/signs 
-* Promote expansion and control governance of the school
-* Manage publicity, design, instructors, and garden teams to sustain revenue and increase enrollment
-
-#### Research Intern for Russell Ranch Agricultural Sustainability Institute in Davis, CA
-March 2010—June 2011
-* Dry, mix, and measure water count in soil and crops in the lab
-* Organize database on irrigation system and tomato weights
-* Harvest, tractor, and gather metrics on crops’ dimensions out in the field
-
-#### Financial Training Administrator for Morgan Stanley in Sacramento, CA
-Jan 2010—June 2011
-* Hire, schedule, and create then conduct lesson plans on financial market education workshops to 50+ interns
-
 ---
 
 ### EDUCATION
 Pre-doctoral candidate, University of Washington (Expected 2025)
+* Science, Technology, and Society Studies Certificate
 
 Master of Library & Information Science, University of Washington
 
@@ -100,21 +77,23 @@ B.A. Economics & B.A. International Relations, University of California, Davis
 ---
 
 ### AWARDS
-* 2020 - The National Trust for Historic Preservation PastForward Online Diversity Scholarship
-* 2020 - Nancy J. Gershenfeld Endowment for Doctoral Student Support
-* 2019 - DLF Forum: DLF Students & New Professionals Fellowship 
-* 2019 - Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer (University of Washington iSchool)
-* 2019 - Multithreading Software Preservation: A Software Preservation and Emulation Workshop Travel Award
-* 2019 - Code4Lib Diversity Scholarship
-* 2019 - SXSWEDU Community Scholarship
-* 2019 - Breaking Open: An Open Pedagogy Symposium Scholarship (The Graduate Center at City University of New York)
-* 2018 - ACRL/NY Symposium Student Scholarship
-* 2018 - iPres Portico Sponsorship
-* 2018 - WNYC’s Werk It Festival Scholarship
+* 2020 — The National Trust for Historic Preservation PastForward Online Diversity Scholarship
+* 2020 — Nancy J. Gershenfeld Endowment for Doctoral Student Support
+* 2019 — DLF Forum: DLF Students & New Professionals Fellowship 
+* 2019 — Mary Elizabeth Hotchkiss Endowed Travel Fellowship Summer (University of Washington iSchool)
+* 2019 — Multithreading Software Preservation: A Software Preservation and Emulation Workshop Travel Award
+* 2019 — Code4Lib Diversity Scholarship
+* 2019 — SXSWEDU Community Scholarship
+* 2019 — Breaking Open: An Open Pedagogy Symposium Scholarship (The Graduate Center at City University of New York)
+* 2018 — ACRL/NY Symposium Student Scholarship
+* 2018 — iPres Portico Sponsorship
+* 2018 — WNYC’s Werk It Festival Scholarship
 
 ---
 
-### Publication
+### PUBLICATIONS
+
+Milliken, G., **Nguyen, S.** & Steeves, V. (2021). A Behavioral Approach to Understanding the Git Experience. Software Survivability: Strategies For Long-lasting And Usable Research Software, Proceedings of the Hawaii International Conference on System Sciences-54. http://hdl.handle.net/10125/71493
 
 Kidd, M., **Nguyen, S.**, & Titkemeyer, E. (2020). [Subscribe, Rate and Preserve Wherever You Get Your Podcasts](https://github.com/michi-gato/michi-gato.github.io/tree/master/assets/pubs/2020_kidd-nguyen-titkemeyer_SubscribeRateandPreserveWhereverYouGetYourPodcasts.pdf). Journal of Archival Organization, 0(0), 1–17. https://doi.org/10.1080/15332748.2020.1769997
 
@@ -138,19 +117,33 @@ _A Quantitative Approach to the Magnetic Media Crisis_. (2019-0804) Presented wi
 
 _My MLIS + PTP + APALA_. (2019-06-22) President's Program: The Things We Do Make a Difference. President's Program at ALA Annual 2019. Washington Convention Center, Washington, D.C. 
 
-_It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ 
-* 2-part webinar hosted by Metropolitan New York Library Council. Conducted with Dana Gerber-Margie and Mary Kidd. (2020-01-23)
-* Audio Engineering Society (AES). New York, NY. Conducted with Molly Schwartz. (2019-10-18)
-* Outlier Podcast Festival, Austin, TX. COnducted with Dana Gerber-Margie. (2019-05-18) 
-* University of Texas at Austin Libraries, Austin, TX. Conducted with Dana Gerber-Margie. (2019-05-17)
-* Center for Investigative Reporting, Emeryville, CA. Coducted with Mary Kidd and Dana Gerber-Margie. (2019-05-11)
-* Metropolitan New York Library Council, New York City. Conducted with Molly Schwartz, Mary Kidd, and Dana Gerber-Margie. (2019-03-21)
+_It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)_ (Variations of the workshop and project presentation, dependent on the audience with Molly Schwartz, Mary Kidd, & Dana Gerber-Margie). 
+* 2-part webinar hosted by Metropolitan New York Library Council. January 2020.
+* Audio Engineering Society (AES). October 2018. New York, NY.
+* Outlier Podcast Festival. May 2019. Austin, TX.
+* University of Texas at Austin Libraries. May 2019. Austin, TX.
+* Center for Investigative Reporting. May 2019. Emeryville, CA.
+* Metropolitan New York Library Council. March 2019. New York City.
 	
 _Responsive OER Programming at City Tech_. (2019-03-22) Presented with Cailean Cooney and Elvis Bakaitis. CUNY/SUNY OER Showcase 2019, Baruch College Vertical Campus, New York City. 
 
 ---
 
+### MEDIA
+
+Elsner, I., & **Nguyen, S.** (2019). 65. Sarah Nguyen Helps Fight Digital Decay with Preserve This Podcast (No. 65). https://www.museumarchipelago.com/65.
+
+Kidd, Mary & **Nguyen, S.** (2019). DCPL Presents: Preserve This Podcast (No. 72). https://dcpl.simplecast.com/episodes/fb6d3175-ea37d029.
+
+---
+
 ### COMMUNITY SERVICE
+
+**Program Committee Member**, DLF Forum (2020)
+* Review and update CFP, review and vote for proposals, etc.
+
+**Scholarship Committee Member**, Code4Lib (2019-2020)
+* Contribute to the conference diversity scholarship process: Review and update CFP and submission rubric, review all submissions and vote for scholarship recipients, and distribute CFP to relevant channels.
 
 **Officer**, MLIS Students of Color at University of Washington (2019-2020)
 

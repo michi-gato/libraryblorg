@@ -10,6 +10,15 @@ curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by 
 <img src="{{base}}/assets/remy.gif" alt="animated gif flashing between black/white and vintage photographs of vietnamese people">
 </p>
 
+
+## <a href="{{site.baseurl}}/2020/09/30/30x3.html">30 x 3 virgin remy: $200 OBO</a>
+
+curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by [Virgo's Year Off](https://vimeo.com/472306291). (2020 Autumn)
+30 x 3 virgin remy: $200 OBO is an experimental dance film and craigslist ad about long hair and life in rural Vietnam during 1972-1974.
+<p align="center">
+<img src="{{base}}/assets/remy.gif" alt="animated gif flashing between black/white and vintage photographs of vietnamese people">
+</p>
+
 ## buddè french
 
 curated by [Kareem Woods](https://www.instagram.com/andrekwoods/). Presented by Virgo's Day Off at Nebula and the Velvet Queen in Bushwick, NY. (2019-09-19)
