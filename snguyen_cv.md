@@ -8,18 +8,19 @@ June 2020—Present
 * Outline and scope potential areas of research and prepare research project proposal, according to found gaps
 * Qualitative research, analysis, and findings for the Center for an Informed Public [NSF COVID-19 Rapid Response Research (RAPID) program](https://www.cip.uw.edu/2020/06/01/national-science-foundation-awards-cip-researchers-200000-covid-19-rapid-grant/). Supervised by Emma Spiro and Kate Starbird.
 
+---
+
+## PREVIOUSLY
+
 ### Research Scientist for NYU Libraries in NYC
-April 2019—Present
+April 2019—November 2020
 * Researcher for the Sloan grant-funded project: [Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)
 * Write and conduct quantitative and qualitative research methods to gather data and understand scholars and researchers' processes and behavioral trends with Git and Git hosting platforms.
 
----
-
-### PREVIOUSLY
-
 ### Archiving and Preservation Fellow for Dance/USA & AXIS Dance Company in Oakland, CA
-June-September 2020
+Summer 2020/2021
 * Advocate for accessibility, independent living rights, and physically integrated dance through preserving and archiving [AXIS Dance Company](https://www.axisdance.org/)'s 33+ years of dance, performance, education, and social justice efforts for disabled and non-disabled people.
+* Conduct oral histories with emerita and acting Artistic Directors 
 
 #### Project Coordinator for Preserve This Podcast in NYC
 June 2018—February 2020
@@ -33,7 +34,7 @@ May 2018—December 2019
 * Contribute to the [Mellon grant-funded project, Mark Morris Dance Group Archive Project](https://mellon.org/grants/grants-database/grants/discalced-inc/41500654/), in researching and implementing workflows for preserving audio-visual and other performing arts related materials.
 * Quality check & catalog born-digital objects into collections management software, Collective Access.
 Plan & set up backup cloud system (DigitalOcean & AWS), DAM workflow, and publicly accessible Collective Access interface. 
-* Transcribe and implement an oral history from former dancers.
+* Transcribe and conductoral histories with former dancers and administrative staff.
 
 #### Instructional Design Technologist for CUNY City Tech in NYC
 September 2018—June 2019
@@ -52,7 +53,7 @@ May 2016—June 2018
 #### Associate Development Editor for Macmillan Learning in NYC
 Aug 2015—April 2016
 #### Digital Solutions Coordinator
-(Dec 2014—Aug 2015)
+Dec 2014—Aug 2015
 * Design & lead the in-house e-book and Course Management System (CMS) training program. Create & disseminate updated documentation on software features and training across all higher education subjects and publishing house departments.
 * Edit & develop content criteria for manuscripts (text, art, & activities) for education economics textbooks.
 * Develop editorial standards for digital production & integration by analyzing sales data to recruit editorial review boards & authors. 
